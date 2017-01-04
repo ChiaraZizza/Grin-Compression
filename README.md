@@ -1,4 +1,4 @@
-# Grin-Compression
+# Huffman-Coding
 
 Description: This program encodes and decodes files using Huffman’s algorithm, which is a particular type of optimal prefix code that is commonly used for lossless data compression. It was written in Java using the Eclipse IDE, the Map interface, trees, and recursion.
 
