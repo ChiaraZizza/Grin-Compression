@@ -1,16 +1,6 @@
 import java.io.IOException;
 
 public class Grin {
-
-	/* cd Documents
-	 * cd Workspace
-	 * cd "Homework 8"
-	 * cd bin
-	 * java Grin (arguments)
-	 * 
-	 * cd ..
-	 * diff TestInput.txt TestDecode.txt
-	 */
 	public static void main(String[] args) throws IOException {
 		if(args[0].equals("encode")) {
 			GrinEncoder encode = new GrinEncoder();
